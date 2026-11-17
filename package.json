@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-aula1-filipe",
+  "version": "1.0.0",
+  "description": "Registro de entregas com blocos encadeados por hashes SHA-256.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test"
+  },
+  "license": "ISC"
+}
